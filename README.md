@@ -6,9 +6,11 @@
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="" width="300" style="box-shadow: 0 0 5px red;" />
     </div>  
     <div align="left">
-      I am a passionate Full Stack Developer working at Tech Instinct. My primary expertise lies in developing web applications using Spring Boot and JHipster, coupled with Angular on the front-end. I also possess basic knowledge in React, Vue.js, Express, and Python, enabling me to adapt to various projects.
-      In the DevOps domain, I am comfortable with server configuration and the use of tools such as Nexus, Jenkins, and Sonar. I always strive to ensure code quality and efficiency in development processes.
-      Among my achievements, I had the opportunity to work on an end-of-study project for an e-health system, developed using Spring Boot and React.
+      <b>Full Stack Developer at Tech Instinct</b>
+    <br/>
+    With solid experience in web application development, I specialize in using Spring Boot and JHipster for back-end development and Angular for front-end. My skills also extend to frameworks such as React, Vue.js, as well as Express and Python, allowing me to adapt to various projects and technological environments.
+    <br/>
+    In terms of DevOps, I have gained strong expertise in server configuration and the use of tools like Nexus, Jenkins, and SonarQube to ensure code quality and efficiency.
     </div> 
 </div>
 <br/>
